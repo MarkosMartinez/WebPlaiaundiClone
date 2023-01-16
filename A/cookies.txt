@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+plaiaundi.hezkuntza.net	TRUE	/w24t000IntranetCentrosWAR-theme/	FALSE	1999999999	JSESSIONID	FAB6B4813A22C0385610EA950606AE20.liferay_educa_ac13_311
+plaiaundi.hezkuntza.net	TRUE	/	FALSE	1999999999	Apache	91.200.117.27.1673873050082025
+plaiaundi.hezkuntza.net	TRUE	/	FALSE	1999999999	COOKIE_SUPPORT	true
+plaiaundi.hezkuntza.net	TRUE	/	FALSE	1999999999	JSESSIONID	F3B7BAD00B380F04EC11C97FCF06CB2E.liferay_educa_ac13_311
+plaiaundi.hezkuntza.net	TRUE	/	FALSE	1999999999	GUEST_LANGUAGE_ID	eu_ES
+
